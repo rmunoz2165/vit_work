@@ -14,7 +14,7 @@ body{
 .datetime{
     color: #fff;
     background: #10101E;
-    font-family: Noto Sans, san-serif;
+    font-family: Noto Sans, san-serif; /* Noto Sans from Google Fonts*/
     width:450px;
     padding: 15px 10px;
     border: 5px solid #2E94E3;
